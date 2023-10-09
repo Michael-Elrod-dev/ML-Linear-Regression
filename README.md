@@ -1,6 +1,5 @@
 # ML-Linear-Regression
 
-## Introduction
 This project aims to create a linear regression model to predict the winning times of the 100m race based on historical data. The project uses various polynomial degree models to find the best fit for the given data. The primary objective is to determine which model (linear, quadratic, cubic, or fourth-degree) best predicts the winning times.
 
 ## Setup & Installation
