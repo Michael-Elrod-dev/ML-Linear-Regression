@@ -21,7 +21,7 @@ This project aims to create a linear regression model to predict the winning tim
    - Ensure you have the `W100MTimes.txt` data file in the project directory.
    - Run the script:
      ```bash
-     python linear_regression_100m.py
+     python script.py
      ```
 
 ## Usage
